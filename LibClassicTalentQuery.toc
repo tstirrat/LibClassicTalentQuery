@@ -1,0 +1,12 @@
+## Interface: 11303
+## Title: Lib: ClassicTalentQury
+## Notes: Query talents from other players in classic
+## Version: @project-version@
+## Author: Grehy-Arugal
+## X-Category: Library
+## X-Curse-Project-ID:
+## X-WoWI-ID:
+
+Libs/LibStub/LibStub.lua
+
+LibClassicTalentQuery.lua
