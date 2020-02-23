@@ -1,0 +1,9 @@
+package-as: LibClassicSpecs
+enable-nolib-creation: no
+
+externals:
+  Lib/LibStub: svn://svn.wowace.com/wow/libstub/mainline/tags/1.0
+  Lib/AceComm-3.0: https://repos.wowace.com/wow/ace3/trunk/AceComm-3.0
+  Lib/AceSerializer-3.0: https://repos.wowace.com/wow/ace3/trunk/AceSerializer-3.0
+  Lib/CallbackHandler-1.0: https://repos.wowace.com/wow/ace3/trunk/CallbackHandler-1.0
+  Lib/LibDeflate: https://github.com/SafeteeWoW/LibDeflate.git

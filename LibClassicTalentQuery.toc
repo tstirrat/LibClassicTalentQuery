@@ -8,5 +8,9 @@
 ## X-WoWI-ID:
 
 Libs/LibStub/LibStub.lua
+Libs/CallbackHandler-1.0/CallbackHandler-1.0.lua
+Libs/AceComm-3.0/AceComm-3.0.lua
+Libs/AceSerializer-3.0/AceSerializer-3.0.lua
+Libs/LibDeflate/lib.xml
 
 LibClassicTalentQuery.lua
